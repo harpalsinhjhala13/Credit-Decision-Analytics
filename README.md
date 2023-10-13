@@ -3,7 +3,8 @@
 
 
 
-****Metrics Definition:********
+****Metrics Definition:****
+
 
 **1. Loans Repaid Duration:**
    - Why Chosen: This metric provides insights into the average duration in months, customers take to repay their loans. Maximum number of Loans are being repaid in duration of 14, 8, 11 or 7 months. It’s crucial for understanding customer behavior and planning repayment schedules, also increase profitability of Business. I have further suggested a key Business insight that might help KIVA increase its revenue based on this metric on the next page.
